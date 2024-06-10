@@ -1,6 +1,6 @@
 <h3 align="center">I'm exploring the cool world of tech🌐, trying to turn ideas into real things through programming👨‍💻. Right now, I'm learning the basics and having a blast on this coding adventure. Join me as I figure  things out and have fun along the way! 🌟🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adishwarraj9905&label=Profile%20views&color=0e75b6&style=flat" alt="adishwarraj9905" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=adishwarraj9905&label=Profile%20views&color=0e75b6&style=flat" alt="adishwarraj9905" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
